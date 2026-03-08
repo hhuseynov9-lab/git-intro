@@ -1,5 +1,5 @@
- HEAD
+<<<<<<< HEAD
 *.log
-
+=======
 *log
- 98e487e5f2e2b251cd63b0446bd3725c3d2d640d
+>>>>>>> 98e487e5f2e2b251cd63b0446bd3725c3d2d640d
