@@ -1,14 +1,14 @@
-<<<<<<< HEAD
+ HEAD
  feature-improvement
  HEAD
-=======
->>>>>>> parent of 3b17208 (Konflikt həll edildi)
+
+ parent of 3b17208 (Konflikt həll edildi)
  HEAD
 Message from main branch
 
 Message from feature branch
  feature-greeting
-<<<<<<< HEAD
+ HEAD
 
 
 Message from main branch
@@ -17,5 +17,4 @@ Message from feature branch
 
 Change from main
  main
-=======
->>>>>>> parent of 3b17208 (Konflikt həll edildi)
+ parent of 3b17208 (Konflikt həll edildi)
