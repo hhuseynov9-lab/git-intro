@@ -1,0 +1,49 @@
+*   [33m5df0f5b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m Resolve conflict in message.txt
+[31m|[m[32m\[m  
+[31m|[m * [33mb9f399e[m[33m ([m[1;32mfeature-greeting[m[33m)[m Add message.txt in feature-greeting branch
+* [32m|[m [33m1b2db30[m Add message.txt in main branch
+[32m|[m[32m/[m  
+* [33mada9266[m[33m ([m[1;31morigin/main[m[33m)[m Fix conflict markers permanently
+* [33m2717b78[m Revert "Konflikt həll edildi"
+*   [33m24b654d[m Merge pull request #3 from hhuseynov9-lab/feature-improvement
+[33m|[m[34m\[m  
+[33m|[m *   [33ma7a6036[m Merge branch 'main' into feature-improvement
+[33m|[m [35m|[m[33m\[m  
+[33m|[m [35m|[m[33m/[m  
+[33m|[m[33m/[m[35m|[m   
+* [35m|[m   [33m28fd997[m Merge pull request #1 from hhuseynov9-lab/feature2
+[1;31m|[m[1;32m\[m [35m\[m  
+[1;31m|[m * [35m|[m [33m69c9e3b[m Add improvement.txt in feature2
+[1;31m|[m[1;31m/[m [35m/[m  
+* [35m|[m   [33mdcec8ec[m Fix merge conflict in .gitignore
+[1;33m|[m[1;34m\[m [35m\[m  
+[1;33m|[m * [35m|[m [33m98e487e[m Add .gitignore for log files
+[1;33m|[m * [35m|[m [33m29eaa30[m Add initial README
+[1;33m|[m  [35m/[m  
+* [35m|[m   [33meea2ab6[m Merge branch 'feature-improvement'
+[1;35m|[m[1;36m\[m [35m\[m  
+* [1;36m|[m [35m|[m [33m2fb19c7[m Change message in main
+[1;36m|[m [1;36m|[m *   [33m3b17208[m Konflikt həll edildi
+[1;36m|[m [1;36m|[m [31m|[m[1;36m\[m  
+[1;36m|[m [1;36m|[m [31m|[m[1;36m/[m  
+[1;36m|[m [1;36m|[m[1;36m/[m[31m|[m   
+[1;36m|[m * [31m|[m [33m290c3e0[m Add improvement.txt in feature-improvement
+[1;36m|[m[1;36m/[m [31m/[m  
+* [31m|[m   [33m5d21a77[m Resolve conflict in message.txt
+[33m|[m[34m\[m [31m\[m  
+[33m|[m * [31m|[m [33m88f9d0c[m Add message.txt in feature-greeting branch
+[33m|[m * [31m|[m [33m7e47798[m Add greeting.txt in feature-greeting branch
+* [34m|[m [31m|[m [33m29f5385[m Add message.txt in main branch
+[34m|[m[34m/[m [31m/[m  
+* [31m|[m [33m9aa5381[m Add .gitignore for log files
+* [31m|[m [33m4acde62[m Add initial README
+ [31m/[m  
+* [33m9918450[m Add improvement.txt in feature-improvement
+*   [33md6f8c47[m Resolve conflict in message.txt
+[35m|[m[36m\[m  
+[35m|[m * [33m84b1ff7[m Add message.txt in feature-greeting branch
+[35m|[m * [33m6979559[m Add greeting.txt in feature-greeting branch
+* [36m|[m [33m2f3b718[m Add message.txt in main branch
+[36m|[m[36m/[m  
+* [33m9588ac9[m Add .gitignore for log files
+* [33m48ec643[m Add initial README
