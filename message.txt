@@ -1,1 +1,5 @@
+ HEAD
 Message from main branch
+ 
+Message from feature branch
+ 3329f7e (Add message.txt in feature-greeting branch)
