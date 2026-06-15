@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Change from main
+=======
+Message from main branch
+Message from feature branch
+>>>>>>> parent of cdc185b (Change message in feature-improvement)
